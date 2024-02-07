@@ -1,0 +1,38 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 43.6rem;
+  
+  
+
+}
+
+.con-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 3.5rem;
+  
+  width: 100%;
+}
+
+.msg-window{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 38rem;
+  width: 100%;
+  background-color: #ccc
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4.2rem;
+  /* background-color: blue; */
+  width: 100%;
+
+}
